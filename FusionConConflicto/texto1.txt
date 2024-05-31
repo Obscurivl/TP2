@@ -1,4 +1,5 @@
 1er texto
 
 texto para generar conflicto
+Texto para generar conflicto en main
 2do texto para generar conflicto
